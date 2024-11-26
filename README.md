@@ -23,3 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelDeveloperMaster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
 ######
+
+# https://israeldevelopermaster.github.io
+
+## Um projeto utilizando Kotlin Multiplatform (KMP) para web pode ser estruturado para criar uma aplicação que compartilhe a lógica de negócio entre plataformas diferentes, como web, Android e iOS.

@@ -26,4 +26,5 @@
 
 # https://israeldevelopermaster.github.io
 
-## Um projeto utilizando Kotlin Multiplatform (KMP) para web pode ser estruturado para criar uma aplicação que compartilhe a lógica de negócio entre plataformas diferentes, como web, Android e iOS.
+## Um projeto utilizando Kotlin Multiplatform (KMP) para web.
+Pode ser estruturado para criar uma aplicação que compartilhe a lógica de negócio entre plataformas diferentes, como web, Android e iOS.
